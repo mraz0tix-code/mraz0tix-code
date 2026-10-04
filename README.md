@@ -1,4 +1,6 @@
-<img width="735" height="245" alt="banner" src="https://github.com/user-attachments/assets/ee625d10-82ae-4f64-a7cf-8db7c4010fe9" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1793D1&height=180&section=header&text=mraz0tix&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%" />
+</p>
 
 # 👋 Hey, I'm Maksim (mraz0tix)
 
