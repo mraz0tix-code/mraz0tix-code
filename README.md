@@ -1,4 +1,6 @@
-👋 Hey, I'm Maksim (mraz0tix)
+# 👋 Hey, I'm Maksim (mraz0tix)
+
+```bash
 $ neofetch --os "Arch Linux" --shell "fish"
 OS: Arch Linux x86_64
 Kernel: Linux 7.2.7
