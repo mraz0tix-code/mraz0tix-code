@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1793D1&height=180&section=header&text=mraz0tix&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=42AAFF&height=180&section=header&text=mraz0tix&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%" />
 </p>
 
 # 👋 Hey, I'm Maksim (mraz0tix)
