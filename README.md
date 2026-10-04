@@ -1,3 +1,5 @@
+<img width="735" height="245" alt="banner" src="https://github.com/user-attachments/assets/ee625d10-82ae-4f64-a7cf-8db7c4010fe9" />
+
 # 👋 Hey, I'm Maksim (mraz0tix)
 
 ```bash
