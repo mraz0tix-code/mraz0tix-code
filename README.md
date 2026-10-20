@@ -9,5 +9,8 @@ $ neofetch --os "Arch Linux" --shell "fish"
 OS: Arch Linux x86_64
 Kernel: Linux 7.2.9
 Shell: fish
+Desktop Environment: GNOME 51.0
+CPU: Intel(R) Core(TM) i7-6700K (8) @ 4.20 GHz
+GPU: NVIDIA GeForce GTX 1060 6GB
 Primary Stack: Python, Bash, Linux Sysadmin, Network & Security
 Hometown: Sakhalin
