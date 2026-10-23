@@ -12,16 +12,16 @@
                `+oooo:                   Host: MS-7A71 (1.0)
               `+oooooo:                  Kernel: Linux 7.2.11-arch1-1
               -+oooooo+:                 Uptime: 2 mins
-            `/:-:++oooo+:                Packages: 7 (flatpak), 994 (pacman)
-           `/++++/+++++++:               Shell: fish 4.9.3
-          `/++++++++++++++:              Desktop Environment: GNOME 51.1
-         `/+++ooooooooooooo/`            Window Manager: Mutter (Wayland)
-        ./ooosssso++osssssso+`           Terminal: kitty 0.49.2
-       .oossssso-````/ossssss+`          CPU: Intel(R) Core(TM) i7-6700K (8) @ 4.20 GHz
-      -osssssso.      :ssssssso.         GPU: NVIDIA GeForce GTX 1060 6GB [Discrete]
-     :osssssss/        osssso+++.        Memory: 16.00 GiB
-    /ossssssss/        +ssssooo/-        Locale: en_US.UTF-8
-  `/ossssso+/:-        -:/+osssso+-      Hometown: Sakhalin
+            `/:-:++oooo+:                Shell: fish 4.9.3
+           `/++++/+++++++:               Desktop Environment: GNOME 51.1
+          `/++++++++++++++:              Window Manager: Mutter (Wayland)
+         `/+++ooooooooooooo/`            Terminal: kitty 0.49.2
+        ./ooosssso++osssssso+`           CPU: Intel(R) Core(TM) i7-6700K (8) @ 4.20 GHz
+       .oossssso-````/ossssss+`          GPU: NVIDIA GeForce GTX 1060 6GB
+      -osssssso.      :ssssssso.         Memory: 16.00 GiB
+     :osssssss/        osssso+++.        Hometown: Sakhalin
+    /ossssssss/        +ssssooo/-        
+  `/ossssso+/:-        -:/+osssso+-    
  `+sso+:-`                 `.-/+oso:     
 `++:.                           `-/+/    
 .`                                 `/
