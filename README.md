@@ -36,9 +36,7 @@
 mraz0tix@archlinux
 ------------------
 OS: Arch Linux x86_64
-Host: MS-7A71 (1.0)
 Kernel: Linux 7.2.11-arch1-1
-Uptime: 2 mins
 Shell: fish 4.9.3
 Desktop Environment: GNOME 51.1
 Window Manager: Mutter (Wayland)
