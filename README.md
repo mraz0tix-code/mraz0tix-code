@@ -14,23 +14,14 @@
               -+oooooo+:                 Uptime: 2 mins
             `/:-:++oooo+:                Packages: 7 (flatpak), 994 (pacman)
            `/++++/+++++++:               Shell: fish 4.9.3
-          `/++++++++++++++:              Display (Acer Technologies 23"): 1920x1080 in 23", 60 Hz [External]
-         `/+++ooooooooooooo/`            Desktop Environment: GNOME 51.1
-        ./ooosssso++osssssso+`           Window Manager: Mutter (Wayland)
-       .oossssso-````/ossssss+`          WM Theme: WhiteSur-Dark-solid-alt-red
-      -osssssso.      :ssssssso.         Theme: WhiteSur-Dark-solid-alt-red [GTK2/3/4]
-     :osssssss/        osssso+++.        Icons: WhiteSur-dark [GTK2/3/4]
-    /ossssssss/        +ssssooo/-        Font: Noto Sans (11pt) [GTK2/3/4]
-  `/ossssso+/:-        -:/+osssso+-      Cursor: default (24px)
- `+sso+:-`                 `.-/+oso:     Terminal: kitty 0.49.2
-`++:.                           `-/+/    Terminal Font: NotoSansMono-Regular (10.5pt)
-.`                                 `/    CPU: Intel(R) Core(TM) i7-6700K (8) @ 4.20 GHz
-                                         GPU: NVIDIA GeForce GTX 1060 6GB [Discrete]
-                                         Memory: 3.61 GiB / 15.57 GiB (23%)
-                                         Swap: 0 B / 4.00 GiB (0%)
-                                         Disk (/): 26.28 GiB / 108.49 GiB (24%) - ext4
-                                         Local IP (enp3s0): 192.168.3.200/24
-                                         Locale: en_US.UTF-8
-                                         Hometown: Sakhalin
-                                                                 
-                                                                 
+          `/++++++++++++++:              Desktop Environment: GNOME 51.1
+         `/+++ooooooooooooo/`            Window Manager: Mutter (Wayland)
+        ./ooosssso++osssssso+`           Terminal: kitty 0.49.2
+       .oossssso-````/ossssss+`          CPU: Intel(R) Core(TM) i7-6700K (8) @ 4.20 GHz
+      -osssssso.      :ssssssso.         GPU: NVIDIA GeForce GTX 1060 6GB [Discrete]
+     :osssssss/        osssso+++.        Memory: 16.00 GiB
+    /ossssssss/        +ssssooo/-        Locale: en_US.UTF-8
+  `/ossssso+/:-        -:/+osssso+-      Hometown: Sakhalin
+ `+sso+:-`                 `.-/+oso:     
+`++:.                           `-/+/    
+.`                                 `/
