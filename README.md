@@ -1,11 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=759868&height=180&section=header&text=mraz0tix&fontSize=50&fontColor=ffffff&fontFamily=Noto+Sans" width="100%" />
-</p>
-
-# 👋 Hey, I'm Maksim (mraz0tix)
-
-~ \$ fastfetch
-
 <table>
 <tr>
 
@@ -33,8 +25,8 @@
 </pre>
 </td>
 
-<td valign="top">
-<pre style="color: #ffffff; background: transparent; border: none; padding: 0; margin: 0;">
+<td valign="top" style="width: 100%;">
+<pre style="color: #ffffff; background: transparent; border: none; padding: 0; margin: 0; position: relative;">
 mraz0tix@archlinux
 ------------------
 OS: Arch Linux x86_64
@@ -45,15 +37,8 @@ Window Manager: Mutter (Wayland)
 Terminal: kitty 0.49.2
 CPU: Intel(R) Core(TM) i7-6700K (8) @ 4.20 GHz
 GPU: NVIDIA GeForce GTX 1060 6GB
-Memory: 16.00 GiB
-Hometown: Sakhalin
-</pre>
-</td>
-
-<td valign="bottom" align="right" style="padding-left: 20px;">
-  <a href="https://t.me">
-    <img src="qr_code.png" width="140" alt="Telegram Bot QR Code" style="border-radius: 10px;" />
-  </a>
+Memory: 16.00 GiB<a href="https://telegram.me" target="_blank" style="float: right; margin-top: -20px; margin-left: 20px;"><img src="qr_code.png" width="105" alt="Telegram Bot QR Code" style="border-radius: 8px; border: 1px solid #759868;" /></a>
+Hometown: Sakhalin</pre>
 </td>
 </tr>
 </table>
