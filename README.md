@@ -1,7 +1,7 @@
 <table>
 <tr>
 
-<td valign="top">
+<td valign="top" rowspan="2">
 <pre style="color: #759868; background: transparent; border: none; padding: 0; margin: 0;">
                   -`
                  .o+`
@@ -24,9 +24,8 @@
 .`                                 `/
 </pre>
 </td>
-
-<td valign="top" style="width: 100%;">
-<pre style="color: #ffffff; background: transparent; border: none; padding: 0; margin: 0; position: relative;">
+<td valign="top" style="padding-left: 10px;">
+<pre style="color: #ffffff; background: transparent; border: none; padding: 0; margin: 0;">
 mraz0tix@archlinux
 ------------------
 OS: Arch Linux x86_64
@@ -37,8 +36,17 @@ Window Manager: Mutter (Wayland)
 Terminal: kitty 0.49.2
 CPU: Intel(R) Core(TM) i7-6700K (8) @ 4.20 GHz
 GPU: NVIDIA GeForce GTX 1060 6GB
-Memory: 16.00 GiB<a href="https://telegram.me" target="_blank" style="float: right; margin-top: -20px; margin-left: 20px;"><img src="qr_code.png" width="105" alt="Telegram Bot QR Code" style="border-radius: 8px; border: 1px solid #759868;" /></a>
-Hometown: Sakhalin</pre>
+Memory: 16.00 GiB
+Hometown: Sakhalin
+</pre>
+</td>
+</tr>
+<tr>
+
+<td valign="bottom" align="right" style="padding-top: 15px;">
+  <a href="https://telegram.me" target="_blank">
+    <img src="qr_code.png" width="130" alt="Telegram Bot QR Code" style="border-radius: 12px; border: 1px solid #759868;" />
+  </a>
 </td>
 </tr>
 </table>
