@@ -8,6 +8,7 @@
 
 <table>
 <tr>
+
 <td valign="top">
 <pre style="color: #759868; background: transparent; border: none; padding: 0; margin: 0;">
                   -`
@@ -31,6 +32,7 @@
 .`                                 `/
 </pre>
 </td>
+
 <td valign="top">
 <pre style="color: #ffffff; background: transparent; border: none; padding: 0; margin: 0;">
 mraz0tix@archlinux
@@ -46,6 +48,12 @@ GPU: NVIDIA GeForce GTX 1060 6GB
 Memory: 16.00 GiB
 Hometown: Sakhalin
 </pre>
+</td>
+
+<td valign="bottom" align="right" style="padding-left: 20px;">
+  <a href="https://t.me">
+    <img src="qr_code.png" width="140" alt="Telegram Bot QR Code" style="border-radius: 10px;" />
+  </a>
 </td>
 </tr>
 </table>
