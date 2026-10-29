@@ -1,7 +1,3 @@
-<img width="1560" height="1641" alt="qr-code-tg" src="https://github.com/user-attachments/assets/5e1e233b-c9fe-4bb9-8fad-c9b7ef0ad81b" />
-<table>
-<tr>
-
 <td valign="top" rowspan="2">
 <pre style="color: #759868; background: transparent; border: none; padding: 0; margin: 0;">
                   -`
@@ -42,4 +38,7 @@ Hometown: Sakhalin
 </pre>
 </td>
 </tr>
+<tr>
+<img width="1560" height="1641" alt="qr-code-tg" src="https://github.com/user-attachments/assets/5e1e233b-c9fe-4bb9-8fad-c9b7ef0ad81b" />
+<table>
 <tr>
