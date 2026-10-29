@@ -1,7 +1,7 @@
 <table>
 <tr style="border: none;">
 
-<td valign="top" style="border: none; padding: 10px;">
+<td valign="top" rowspan="2" style="border: none; padding: 10px 5px 0 5px;">
 <pre style="color: #759868; background: transparent; border: none; padding: 0; margin: 0; font-family: monospace; line-height: 1.2;">
                   -`
                  .o+`
@@ -24,8 +24,8 @@
 .`                                 `/
 </pre>
 </td>
-
-<td valign="top" style="border: none; padding: 10px 20px;">
+  
+<td valign="top" style="border: none; padding: 10px 10px 0 10px; width: 100%;">
 <pre style="color: #ffffff; background: transparent; border: none; padding: 0; margin: 0; font-family: monospace; line-height: 1.2;">
 mraz0tix@archlinux
 ------------------
@@ -41,10 +41,13 @@ Memory: 16.00 GiB
 Hometown: Sakhalin
 </pre>
 </td>
+</tr>
 
-<td valign="middle" align="center" style="border: none; padding: 10px 5px;">
+<tr style="border: none;">
+
+<td valign="bottom" align="right" style="border: none; padding: 15px 10px 10px 0;">
   <a href="https://telegram.me" target="_blank">
-    <img src="qr-code.png" width="200" alt="Telegram Bot QR Code" style="border-radius: 12px; border: 2px solid #759868; display: block;" />
+    <img src="qr-code.png" width="135" alt="Telegram Bot QR Code" style="border-radius: 12px; border: 2px solid #759868; display: block;" />
   </a>
 </td>
 </tr>
