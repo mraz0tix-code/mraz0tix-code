@@ -1,5 +1,7 @@
-<td valign="top" rowspan="2">
-<pre style="color: #759868; background: transparent; border: none; padding: 0; margin: 0;">
+<table>
+<tr>
+<td valign="top" rowspan="2" style="border: none; background: #1e1e1e;">
+<pre style="color: #759868; background: transparent; border: none; padding: 10px 0 0 10px; margin: 0; font-family: monospace;">
                   -`
                  .o+`
                 `ooo/
@@ -21,8 +23,8 @@
 .`                                 `/
 </pre>
 </td>
-<td valign="top" style="padding-left: 10px;">
-<pre style="color: #ffffff; background: transparent; border: none; padding: 0; margin: 0;">
+<td valign="top" style="padding-left: 15px; border: none; background: #1e1e1e; width: 100%;">
+<pre style="color: #ffffff; background: transparent; border: none; padding: 10px 10px 0 0; margin: 0; font-family: monospace;">
 mraz0tix@archlinux
 ------------------
 OS: Arch Linux x86_64
@@ -39,3 +41,11 @@ Hometown: Sakhalin
 </td>
 </tr>
 <tr>
+<td valign="bottom" align="right" style="border: none; background: #1e1e1e; padding: 0 15px 15px 0;">
+  <a href="https://telegram.me" target="_blank">
+    <img src="qr_code.png" width="120" alt="Telegram Bot QR Code" style="border-radius: 8px; display: block;" />
+  </a>
+</td>
+</tr>
+</table>
+```
