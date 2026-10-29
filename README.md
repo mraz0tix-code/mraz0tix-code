@@ -1,7 +1,8 @@
 <table>
-<tr>
-<td valign="top" rowspan="2" style="border: none; background: #1a1a1a;">
-<pre style="color: #17b67c; background: transparent; border: none; padding: 20px 0 0 20px; margin: 0; font-family: monospace; font-size: 14px; line-height: 1.2;">
+<tr style="border: none;">
+
+<td valign="top" style="border: none; padding: 10px;">
+<pre style="color: #759868; background: transparent; border: none; padding: 0; margin: 0; font-family: monospace; line-height: 1.2;">
                   -`
                  .o+`
                 `ooo/
@@ -23,21 +24,28 @@
 .`                                 `/
 </pre>
 </td>
-<td valign="top" style="padding: 20px 20px 0 25px; border: none; background: #1a1a1a; width: 100%;">
-<pre style="color: #ffffff; background: transparent; border: none; padding: 0; margin: 0; font-family: 'Noto Sans', sans-serif; font-weight: 700; font-size: 15px; line-height: 1.6;">
-<span style="color: #17b67c;">mraz0tix</span>@<span style="color: #17b67c;">archlinux</span>
-<span style="color: #444444;">------------------</span>
-OS: <span style="color: #cccccc; font-weight: 400;">Arch Linux x86_64</span>
-Kernel: <span style="color: #cccccc; font-weight: 400;">Linux 7.2.11-arch1-1</span>
-Shell: <span style="color: #cccccc; font-weight: 400;">fish 4.9.3</span>
-DE: <span style="color: #cccccc; font-weight: 400;">GNOME 51.1</span>
-WM: <span style="color: #cccccc; font-weight: 400;">Mutter (Wayland)</span>
-Terminal: <span style="color: #cccccc; font-weight: 400;">kitty 0.49.2</span>
-CPU: <span style="color: #cccccc; font-weight: 400;">Intel i7-6700K (8) @ 4.20 GHz</span>
-GPU: <span style="color: #cccccc; font-weight: 400;">NVIDIA GeForce GTX 1060 6GB</span>
-Memory: <span style="color: #cccccc; font-weight: 400;">16.00 GiB</span>
-Hometown: <span style="color: #cccccc; font-weight: 400;">Sakhalin</span>
+
+<td valign="top" style="border: none; padding: 10px 20px;">
+<pre style="color: #ffffff; background: transparent; border: none; padding: 0; margin: 0; font-family: monospace; line-height: 1.2;">
+mraz0tix@archlinux
+------------------
+OS: Arch Linux x86_64
+Kernel: Linux 7.2.11-arch1-1
+Shell: fish 4.9.3
+Desktop Environment: GNOME 51.1
+Window Manager: Mutter (Wayland)
+Terminal: kitty 0.49.2
+CPU: Intel(R) Core(TM) i7-6700K (8) @ 4.20 GHz
+GPU: NVIDIA GeForce GTX 1060 6GB
+Memory: 16.00 GiB
+Hometown: Sakhalin
 </pre>
 </td>
+
+<td valign="middle" align="center" style="border: none; padding: 10px 20px;">
+  <a href="https://telegram.me" target="_blank">
+    <img src="qr_code.png" width="135" alt="Telegram Bot QR Code" style="border-radius: 12px; border: 2px solid #759868; display: block;" />
+  </a>
+</td>
 </tr>
-<tr>
+</table>
