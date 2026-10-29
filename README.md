@@ -44,7 +44,7 @@ Hometown: Sakhalin
 </tr>
 
 <tr style="border: none;">
-<td valign="bottom" align="center" style="border: none; padding: 15px 10px 10px 10px;">
+<td valign="top" align="center" style="border: none; padding: 0px 10px 5px 10px;">
   <a href="https://telegram.me" target="_blank" style="display: inline-block;">
     <img src="qr-code.png" width="135" alt="Telegram Bot QR Code" style="border-radius: 12px; border: 2px solid #759868; display: block;" />
   </a>
