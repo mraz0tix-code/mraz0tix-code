@@ -41,13 +41,3 @@ Hometown: <span style="color: #cccccc; font-weight: 400;">Sakhalin</span>
 </td>
 </tr>
 <tr>
-<td valign="bottom" align="right" style="border: none; background: #1a1a1a; padding: 0 20px 20px 0;">
-  <a href="https://t.me/mraz0tix_code_bot" target="_blank" style="text-decoration: none; display: inline-block; text-align: center;">
-    <div style="background: #2488ff; padding: 2px; border-radius: 12px; box-shadow: 0 4px 12px rgba(36,136,255,0.3); transition: transform 0.2s;">
-      <img src="qr_code.png" width="110" alt="Telegram Bot QR Code" style="border-radius: 10px; display: block; border: 4px solid #ffffff;" />
-    </div>
-    <span style="display: block; margin-top: 8px; color: #2488ff; font-family: 'Noto Sans', sans-serif; font-weight: 700; font-size: 11px; letter-spacing: 0.5px;">@mraz0tix_code_bot</span>
-  </a>
-</td>
-</tr>
-</table>
