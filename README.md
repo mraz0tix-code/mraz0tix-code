@@ -1,3 +1,4 @@
+<img width="1560" height="1641" alt="qr-code-tg" src="https://github.com/user-attachments/assets/5e1e233b-c9fe-4bb9-8fad-c9b7ef0ad81b" />
 <table>
 <tr>
 
