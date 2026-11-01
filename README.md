@@ -31,7 +31,7 @@ mraz0tix@archlinux
 ------------------
 OS: Arch Linux x86_64
 Kernel: Linux 7.2.11-arch1-1
-Shell: fish 4.9.3
+Shell: zsh 5.9 (with Powerlevel10k)
 Desktop Environment: GNOME 51.1
 Window Manager: Mutter (Wayland)
 Terminal: kitty 0.49.2
