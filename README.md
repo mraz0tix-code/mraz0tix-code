@@ -30,9 +30,9 @@
 mraz0tix@archlinux
 ------------------
 OS: Arch Linux x86_64
-Kernel: Linux 7.2.11-arch1-1
+Kernel: Linux 7.2.14-arch1-1
 Shell: zsh 5.9 (with Powerlevel10k)
-Desktop Environment: GNOME 51.1
+Desktop Environment: GNOME 51.1.1
 Window Manager: Mutter (Wayland)
 Terminal: kitty 0.49.2
 CPU: Intel(R) Core(TM) i7-6700K (8) @ 4.20 GHz
