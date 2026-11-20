@@ -27,24 +27,22 @@
   
 <td valign="top" style="border: none; padding: 10px 10px 0 10px; width: 100%;">
 <pre style="color: #ffffff; background: transparent; border: none; padding: 0; margin: 0; font-family: monospace; line-height: 1.2;">
-         󰌽   mraz0tix • Fastfetch  󰌽
-󰝤───────────────────────────────────────󰝤
-󰣇  SYSTEM   ➜  Arch Linux x86_64
-󰌢  KERNEL   ➜  Linux 7.3.4-arch1-1
-󰔛  UPTIME   ➜  27 mins
-󰍛  CPU      ➜  Intel(R) Core(TM) i7-6700K
-󰍹  GPU      ➜  GeForce GTX 1060 6GB
-󰑭  RAM      ➜  16 GiB
-󰋊  DISK     ➜  108.49 GiB
-󰋊  DISK     ➜  915.82 GiB 
-󰋊  DISK     ➜  233.67 GiB 
-󱂬  WINDOW   ➜  Mutter (Wayland)
-󰆍  SHELL    ➜  zsh 5.9.2
-  TERM     ➜  kitty 0.50.0
-     
-󰝤───────────────────────────────────────󰝤
-             󰮯  󰊠  󰊠  󰊠  󰊠  󰊠  󰊠  󰊠 
-Hometown: Sakhalin
+            mraz0tix • Fastfetch
+───────────────────────────────────────
+  SYSTEM   ➜  Arch Linux x86_64
+  KERNEL   ➜  Linux 7.3.4-arch1-1
+  UPTIME   ➜  27 mins
+  CPU      ➜  Intel(R) Core(TM) i7-6700K
+  GPU      ➜  GeForce GTX 1060 6GB
+  RAM      ➜  16 GiB
+  DISK     ➜  108.49 GiB
+  DISK     ➜  915.82 GiB 
+  DISK     ➜  233.67 GiB 
+  WINDOW   ➜  Mutter (Wayland)
+  SHELL    ➜  zsh 5.9.2
+  TERM     ➜  kitty 0.50.0
+  Hometown: Sakhalin
+───────────────────────────────────────
 </pre>
 </td>
 </tr>
