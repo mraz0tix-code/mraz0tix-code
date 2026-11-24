@@ -27,7 +27,7 @@
   
 <td valign="top" style="border: none; padding: 10px 10px 0 10px; width: 100%;">
 <pre style="color: #ffffff; background: transparent; border: none; padding: 0; margin: 0; font-family: monospace; line-height: 1.2;">
-            mraz0tix • Fastfetch
+          mraz0tix • Fastfetch
 ───────────────────────────────────────
   SYSTEM   ➜  Arch Linux x86_64
   KERNEL   ➜  Linux
