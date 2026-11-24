@@ -30,18 +30,17 @@
             mraz0tix • Fastfetch
 ───────────────────────────────────────
   SYSTEM   ➜  Arch Linux x86_64
-  KERNEL   ➜  Linux 7.3.4-arch1-1
-  UPTIME   ➜  27 mins
+  KERNEL   ➜  Linux
   CPU      ➜  Intel(R) Core(TM) i7-6700K
   GPU      ➜  GeForce GTX 1060 6GB
   RAM      ➜  16 GiB
-  DISK     ➜  108.49 GiB
-  DISK     ➜  915.82 GiB 
-  DISK     ➜  233.67 GiB 
+  DISK     ➜  128 GiB
+  DISK     ➜  1000 GiB 
+  DISK     ➜  256 GiB 
   WINDOW   ➜  Mutter (Wayland)
-  SHELL    ➜  zsh 5.9.2
-  TERM     ➜  kitty 0.50.0
-  Hometown: Sakhalin
+  SHELL    ➜  zsh
+  TERM     ➜  kitty
+  HOMETOWN ➜  Sakhalin
 ───────────────────────────────────────
 </pre>
 </td>
