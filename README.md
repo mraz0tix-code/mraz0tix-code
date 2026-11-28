@@ -37,6 +37,7 @@
   DISK     ➜  128 GiB
   DISK     ➜  1000 GiB 
   DISK     ➜  256 GiB 
+  DISK     ➜  320 GiB
   WINDOW   ➜  Mutter (Wayland)
   SHELL    ➜  zsh
   TERM     ➜  kitty
